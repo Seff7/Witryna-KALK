@@ -1,0 +1,209 @@
+.version.index /* version checker */
+{
+	color: #0000FB;
+	background-color: #65F5B7;
+}
+
+.html
+{
+	background-color: #1D1D1D;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u105-3
+{
+	z-index: 2;
+	width: 7px;
+	min-height: 24px;
+	-webkit-transform: matrix(0.6157,0.788,-0.788,0.6157,11,2);
+	-ms-transform: matrix(0.6157,0.788,-0.788,0.6157,11,2);
+	-o-transform: matrix(0.6157,0.788,-0.788,0.6157,11,2);
+	transform: matrix(0.6157,0.788,-0.788,0.6157,11,2);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 409px;
+	left: 657px;
+}
+
+#u329
+{
+	z-index: 5;
+	width: 178px;
+	height: 178px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 229px;
+	left: 533px;
+	background: transparent url("../images/ball%20v-u329-fr.png") no-repeat left top;
+	background-size: contain;
+	-moz-transition: 0.2s ease-in-out;
+	-webkit-transition: 0.2s ease-in-out;
+	-o-transition: 0.2s ease-in-out;
+}
+
+#u329:hover
+{
+	margin: 229px -10000px 0px 0px;
+	background: transparent url("../images/ball%20v-u329-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u341
+{
+	z-index: 6;
+	width: 114px;
+	height: 114px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 157px;
+	left: 667px;
+	background: transparent url("../images/ball%20b-u341-fr.png") no-repeat left top;
+	background-size: contain;
+	-moz-transition: 0.2s ease-in-out;
+	-webkit-transition: 0.2s ease-in-out;
+	-o-transition: 0.2s ease-in-out;
+}
+
+#u341:hover
+{
+	margin: 157px -10000px 0px 0px;
+	background: transparent url("../images/ball%20b-u341-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u352
+{
+	z-index: 7;
+	width: 160px;
+	height: 160px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 260px;
+	left: 376px;
+	background: transparent url("../images/ball%20g-u352-fr.png") no-repeat left top;
+	background-size: contain;
+	-moz-transition: 0.2s ease-in-out;
+	-webkit-transition: 0.2s ease-in-out;
+	-o-transition: 0.2s ease-in-out;
+}
+
+#u352:hover
+{
+	margin: 260px -10000px 0px 0px;
+	background: transparent url("../images/ball%20g-u352-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u364
+{
+	z-index: 8;
+	width: 187px;
+	height: 187px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 347px;
+	left: 223px;
+	background: transparent url("../images/ball%20y-u364-fr.png") no-repeat left top;
+	background-size: contain;
+	-moz-transition: 0.2s ease-in-out;
+	-webkit-transition: 0.2s ease-in-out;
+	-o-transition: 0.2s ease-in-out;
+}
+
+#u364:hover
+{
+	margin: 347px -10000px 0px 0px;
+	background: transparent url("../images/ball%20y-u364-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u376
+{
+	z-index: 9;
+	width: 130px;
+	height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 452px;
+	left: 390px;
+	background: transparent url("../images/ball%20r-u376-fr.png") no-repeat left top;
+	background-size: contain;
+	-moz-transition: 0.2s ease-in-out;
+	-webkit-transition: 0.2s ease-in-out;
+	-o-transition: 0.2s ease-in-out;
+}
+
+#u376:hover
+{
+	margin: 452px -10000px 0px 0px;
+	background: transparent url("../images/ball%20r-u376-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u388
+{
+	z-index: 10;
+	width: 155px;
+	height: 155px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 338px;
+	left: 679px;
+	background: transparent url("../images/ball%20a-u388-fr.png") no-repeat left top;
+	background-size: contain;
+	-moz-transition: 0.2s ease-in-out;
+	-webkit-transition: 0.2s ease-in-out;
+	-o-transition: 0.2s ease-in-out;
+}
+
+#u388:hover
+{
+	margin: 338px -10000px 0px 0px;
+	background: transparent url("../images/ball%20a-u388-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u460
+{
+	z-index: 11;
+	width: 214px;
+	height: 214px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 156px;
+	left: 117px;
+	background: transparent url("../images/ball%20o-u460-fr.png") no-repeat left top;
+	background-size: contain;
+	-moz-transition: 0.2s ease-in-out;
+	-webkit-transition: 0.2s ease-in-out;
+	-o-transition: 0.2s ease-in-out;
+}
+
+#u460:hover
+{
+	margin: 156px -10000px 0px 0px;
+	background: transparent url("../images/ball%20o-u460-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
