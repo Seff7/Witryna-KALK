@@ -1,0 +1,31 @@
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1432675291101">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="1309972" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index"/>
+    <file name="museutils.js" crc="353204447" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="gradient bg5.jpg" crc="3866978419" ref="index"/>
+    <file name="kalk logo transprent.png" crc="3801043307" ref="index"/>
+    <file name="ball v-u329-fr.png" crc="3986244586" ref="index"/>
+    <file name="ball v-u329-r-fr.png" crc="238254984" ref="index"/>
+    <file name="ball b-u341-fr.png" crc="4070574191" ref="index"/>
+    <file name="ball b-u341-r-fr.png" crc="4060499409" ref="index"/>
+    <file name="ball g-u352-fr.png" crc="3945449596" ref="index"/>
+    <file name="ball g-u352-r-fr.png" crc="4185684237" ref="index"/>
+    <file name="ball y-u364-fr.png" crc="4221540829" ref="index"/>
+    <file name="ball y-u364-r-fr.png" crc="332222599" ref="index"/>
+    <file name="ball r-u376-fr.png" crc="3885867155" ref="index"/>
+    <file name="ball r-u376-r-fr.png" crc="3937912234" ref="index"/>
+    <file name="ball a-u388-fr.png" crc="4265542221" ref="index"/>
+    <file name="ball a-u388-r-fr.png" crc="3823173149" ref="index"/>
+    <file name="ball o-u460-fr.png" crc="396982822" ref="index"/>
+    <file name="ball o-u460-r-fr.png" crc="437029405" ref="index"/>
+  </folder>
+  <file name="index.html" crc="123222349" mt="1432675181420" redirect="true"/>
+</manifest>
